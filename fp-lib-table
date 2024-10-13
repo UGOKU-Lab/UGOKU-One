@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "0_UGOKU-One_Lib")(type "KiCad")(uri "${KIPRJMOD}/Footprints/UGOKU-One_Libraries.pretty")(options "")(descr ""))
+)

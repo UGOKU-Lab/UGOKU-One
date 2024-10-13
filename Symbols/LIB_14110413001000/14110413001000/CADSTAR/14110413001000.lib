@@ -1,0 +1,19 @@
+.14110413001000 :1 ;har-flexicon, 4pin male, vertical SMT pcb mount, 6Amps, pitch 2.54mm, 500pc reel
+"14110413001000"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=MP1 6=MP2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="MP1" 6="MP2"
+*MXP 8
+*DFN 14110413001000
+~!Manufacturer_Name (HARTING)
+~!Manufacturer_Part_Number (14110413001000)
+~!Mouser Part Number (617-14110413001000)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/HARTING/14110413001000?qs=9nYkJLYMUzsAxBjeg8lEaQ%3D%3D)
+~!Arrow Part Number (14110413001000)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/14110413001000/harting)
+~!Link Datasheet (https://b2b.harting.com/files/download/PRD/PDF_DS/PDF_DS_14111400301.pdf)
+~!Height (7.45mm)
+~!3D_Model (14110413001000)
+"14110413001000"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 
