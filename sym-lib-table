@@ -3,4 +3,5 @@
   (lib (name "0_14110213001000")(type "KiCad")(uri "${KIPRJMOD}/Symbols/14110213001000/14110213001000.kicad_sym")(options "")(descr ""))
   (lib (name "0_14110313001000")(type "KiCad")(uri "${KIPRJMOD}/Symbols/14110313001000/14110313001000.kicad_sym")(options "")(descr ""))
   (lib (name "0_14110413001000")(type "KiCad")(uri "${KIPRJMOD}/Symbols/14110413001000/14110413001000.kicad_sym")(options "")(descr ""))
+  (lib (name "0_CP2102N")(type "KiCad")(uri "${KIPRJMOD}/Symbols/CP2102N-A02-GQFN28.kicad_sym")(options "")(descr ""))
 )
