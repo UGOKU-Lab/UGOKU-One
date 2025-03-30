@@ -1,9 +1,0 @@
-Manufacturer=HARTING
-PartNumber=14110213001000
-PartCategory=Connector
-PackageCategory=Other
-PinCount=4
-Version=4.1
-Released=2019-02-02 23:03:16
-Downloaded=2024-10-13 05:01:54
-3D=Y
