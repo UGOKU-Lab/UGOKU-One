@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 1.02,
-          "height": 1.53,
-          "width": 1.53
+          "drill": 0.0,
+          "height": 2.3,
+          "width": 2.3
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.35
+          "min_clearance": 0.3
         }
       },
       "diff_pair_dimensions": [
@@ -190,14 +190,16 @@
       ],
       "track_widths": [
         0.0,
+        0.2,
         0.25,
-        0.5,
+        0.4,
+        0.6,
+        0.8,
         1.0,
-        1.25,
+        1.2,
         1.5,
-        1.75,
+        1.8,
         2.0,
-        2.25,
         2.5
       ],
       "tuning_pattern_settings": {
@@ -498,7 +500,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -509,10 +511,37 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.4,
+        "via_drill": 0.2,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.15,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "0.5A",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 9,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.2,
+        "name": "1.5A",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 7,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.6,
+        "via_diameter": 0.8,
+        "via_drill": 0.4
       },
       {
         "bus_width": 12,
@@ -522,9 +551,9 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "L-PWR",
+        "name": "1A",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 2,
+        "priority": 8,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4,
         "via_diameter": 0.8,
@@ -532,21 +561,64 @@
         "wire_width": 6
       },
       {
-        "bus_width": 12,
+        "clearance": 0.25,
+        "name": "2.5A",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 5,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.0,
+        "via_diameter": 0.8,
+        "via_drill": 0.4
+      },
+      {
+        "clearance": 0.25,
+        "name": "2A",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 6,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.8,
+        "via_diameter": 0.8,
+        "via_drill": 0.4
+      },
+      {
+        "clearance": 0.25,
+        "name": "3A",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 4,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.2,
+        "via_diameter": 1.0,
+        "via_drill": 0.5
+      },
+      {
         "clearance": 0.3,
-        "diff_pair_gap": 0.25,
-        "diff_pair_width": 0.2,
-        "line_style": 0,
-        "microvia_diameter": 0.3,
-        "microvia_drill": 0.1,
-        "name": "MOTOR",
+        "name": "4A",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 1.3,
-        "via_diameter": 1.5,
-        "via_drill": 1.0,
-        "wire_width": 6
+        "track_width": 1.5,
+        "via_diameter": 1.0,
+        "via_drill": 0.5
+      },
+      {
+        "clearance": 0.3,
+        "name": "5A",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 1.8,
+        "via_diameter": 1.0,
+        "via_drill": 0.5
+      },
+      {
+        "clearance": 0.35,
+        "name": "6A",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 2.0,
+        "via_diameter": 2.0,
+        "via_drill": 1.0
       },
       {
         "bus_width": 12,
@@ -556,21 +628,14 @@
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
-        "name": "PWR1",
+        "name": "8A",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 2.5,
-        "via_diameter": 2.3,
-        "via_drill": 1.5,
+        "via_diameter": 2.0,
+        "via_drill": 1.0,
         "wire_width": 6
-      },
-      {
-        "clearance": 0.3,
-        "name": "PWR2",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
-        "schematic_color": "rgba(0, 0, 0, 0.000)"
       }
     ],
     "meta": {
@@ -580,68 +645,36 @@
     "netclass_assignments": null,
     "netclass_patterns": [
       {
-        "netclass": "L-PWR",
-        "pattern": "+3V3"
+        "netclass": "1.5A",
+        "pattern": "3V3"
       },
       {
-        "netclass": "L-PWR",
-        "pattern": "+5V"
+        "netclass": "5A",
+        "pattern": "5V"
       },
       {
-        "netclass": "PWR1",
+        "netclass": "5A",
         "pattern": "PWR"
       },
       {
-        "netclass": "MOTOR",
-        "pattern": "Net-(U4-OUT1A)"
-      },
-      {
-        "netclass": "MOTOR",
-        "pattern": "Net-(U4-OUT2A)"
-      },
-      {
-        "netclass": "MOTOR",
-        "pattern": "Net-(U5-OUT1A)"
-      },
-      {
-        "netclass": "MOTOR",
-        "pattern": "Net-(U5-OUT2A)"
-      },
-      {
-        "netclass": "PWR1",
-        "pattern": "Net-(J4-Pin_1)"
-      },
-      {
-        "netclass": "L-PWR",
-        "pattern": "Net-(IO_3-Pin_2)"
-      },
-      {
-        "netclass": "L-PWR",
-        "pattern": "Net-(ENC/IO_2-Pin_2)"
-      },
-      {
-        "netclass": "L-PWR",
-        "pattern": "Net-(ENC/IO_1-Pin_2)"
-      },
-      {
-        "netclass": "L-PWR",
+        "netclass": "Default",
         "pattern": "GND"
       },
       {
-        "netclass": "L-PWR",
-        "pattern": "Net-(CN1-Pin_2)"
-      },
-      {
-        "netclass": "L-PWR",
-        "pattern": "Net-(CN2-Pin_2)"
-      },
-      {
-        "netclass": "L-PWR",
-        "pattern": "Net-(CN3-Pin_2)"
-      },
-      {
-        "netclass": "PWR1",
+        "netclass": "5A",
         "pattern": "MOT_PWR"
+      },
+      {
+        "netclass": "5A",
+        "pattern": "SERVO_PWR"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "MD2_OUT1"
+      },
+      {
+        "netclass": "Default",
+        "pattern": ""
       }
     ]
   },

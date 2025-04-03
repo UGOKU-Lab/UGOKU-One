@@ -1,0 +1,130 @@
+(footprint "M78AR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "Ref**"
+		(at 0 3.2 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ffab18d9-548a-4cfa-91ae-53045a4a35c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "M78AR"
+		(at 0 -4.1 0)
+		(layer "F.SilkS")
+		(uuid "b1fc9edc-794e-4cc7-8c64-037b4f51f965")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d7ab71c3-d106-4f9d-8411-eabbeb969f0f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d6ed5ee-f6fb-4dff-823e-a5518c4dcc0d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5.8 2.15)
+		(end -5.8 -5.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "384ff124-5d94-4871-bf58-0ffa984e40d2")
+	)
+	(fp_line
+		(start 5.8 -5.51)
+		(end -5.8 -5.51)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "291c03dc-7e98-401d-a670-2b789a5f372f")
+	)
+	(fp_line
+		(start 5.8 -5.51)
+		(end 5.8 2.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2e0abbfe-0223-4be1-bc5f-675992a0ef9a")
+	)
+	(fp_line
+		(start 5.8 2.15)
+		(end -5.8 2.15)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "de06a378-c20f-4cf4-84d6-56daab74204c")
+	)
+	(pad "1" thru_hole rect
+		(at -2.54 0)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "00b8e9b9-68e4-42b0-a6f1-36e881826acf")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "70a7e758-3f4d-4369-947b-5066cd2af2c6")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 0)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4eff35e9-4f3d-4b4a-800f-1fbf7d508ef0")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/TA2/Documents/KiCad/library/DCDC_aoki/DCDC_aoki.pretty/M78AR-1.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
