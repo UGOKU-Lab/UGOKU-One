@@ -1,25 +1,167 @@
-(module PTS_1.5_2 (layer F.Cu) (tedit 614024F0)
-  (fp_text reference U$4 (at 0 0) (layer F.SilkS) hide
-    (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
-  )
-  (fp_text value PTS_1.5/2 (at 0 0) (layer F.SilkS) hide
-    (effects (font (size 1.27 1.27) (thickness 0.15)) (justify right top))
-  )
-  (fp_line (start 2.5 4.95) (end 2.5 3) (layer F.SilkS) (width 0.127))
-  (fp_line (start -2.5 4.95) (end -2.5 3) (layer F.SilkS) (width 0.127))
-  (fp_line (start 2.5 4.95) (end 5 4.95) (layer F.SilkS) (width 0.127))
-  (fp_line (start -2.5 4.95) (end 2.5 4.95) (layer F.SilkS) (width 0.127))
-  (fp_line (start -5 4.95) (end -2.5 4.95) (layer F.SilkS) (width 0.127))
-  (fp_line (start 5 -5.55) (end -5 -5.55) (layer F.SilkS) (width 0.127))
-  (fp_line (start -5 -5.55) (end -5 4.95) (layer F.SilkS) (width 0.127))
-  (fp_line (start 5 4.95) (end 5 -5.55) (layer F.SilkS) (width 0.12))
-  (pad P$1 thru_hole rect (at -2.5 0) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask)
-    (solder_mask_margin 0.1016))
-  (pad P$2 thru_hole circle (at 2.5 0) (size 1.8 1.8) (drill 1.2) (layers *.Cu *.Mask)
-    (solder_mask_margin 0.1016))
-  (model C:/Users/TA2/Documents/KiCad/library/PTS-terminal-block/PTS-1-5-2.stp
-    (at (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
+(footprint "PTS_1.5_2"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "U$4"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d2a4a2bf-6904-4cd5-bdfa-3d6d12050a1b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify right top)
+		)
+	)
+	(property "Value" "PTS_1.5/2"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0b73150b-05bb-4db2-a58e-08fd98c05149")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify right top)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a07e301-e8df-439a-8a3b-2b31a492dc93")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "941971ca-453f-4754-9a84-19c7d43f394a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -5 -5.55)
+		(end -5 4.95)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "951bfc13-6777-417d-8db8-cacc9e4c41e9")
+	)
+	(fp_line
+		(start -5 4.95)
+		(end -2.5 4.95)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e542d13f-e09c-46ee-989c-b6f56ce66347")
+	)
+	(fp_line
+		(start -2.5 4.95)
+		(end -2.5 3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2b7899c1-b319-40d9-80c2-52f2f970f6de")
+	)
+	(fp_line
+		(start -2.5 4.95)
+		(end 2.5 4.95)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7d69de98-7f0a-4b3a-adde-e3c9d217c4ea")
+	)
+	(fp_line
+		(start 2.5 4.95)
+		(end 2.5 3)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5624e3f5-b6c4-4593-9879-1a88fb3372c2")
+	)
+	(fp_line
+		(start 2.5 4.95)
+		(end 5 4.95)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "14b5983c-611c-40e7-8dd8-c9d1dbed92d1")
+	)
+	(fp_line
+		(start 5 -5.55)
+		(end -5 -5.55)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "403a78a7-3067-44a0-8d0c-faea64417a94")
+	)
+	(fp_line
+		(start 5 4.95)
+		(end 5 -5.55)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a57b45cb-a779-4126-9d14-f8cb33861278")
+	)
+	(pad "1" thru_hole rect
+		(at -2.5 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(uuid "dd714f41-8268-4052-83a6-3a881ea74a66")
+	)
+	(pad "2" thru_hole circle
+		(at 2.5 0)
+		(size 1.8 1.8)
+		(drill 1.2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.1016)
+		(uuid "8bbb914a-94eb-49dc-81a8-6ce66a720610")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/TA2/Documents/KiCad/library/PTS-terminal-block/PTS-1-5-2.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
