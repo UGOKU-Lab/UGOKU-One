@@ -1320,7 +1320,7 @@
 			(uuid "b106a99f-4eaa-42d4-b909-d203b1f33d73")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/TA2/Documents/KiCad/library/PTS-terminal-block/PTS-1-5-2.stp"
+		(model "${KIPRJMOD}/3Dmodels/PTS-1-5-2.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -22622,7 +22622,7 @@
 			(uuid "fd5c4e17-ac9d-4f1e-b174-e8031f6475cb")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/TA2/Documents/KiCad/library/PTS-terminal-block/PTS-1-5-2.stp"
+		(model "${KIPRJMOD}/3Dmodels/PTS-1-5-2.stp"
 			(offset
 				(xyz 0 0 0)
 			)
