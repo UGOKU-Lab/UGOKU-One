@@ -7830,7 +7830,7 @@
 			(uuid "f1c199e5-42e3-4d9f-91ea-55dc8f22f752")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/TA2/Documents/KiCad/library/PTS-terminal-block/PTS-1-5-2.stp"
+		(model "${KIPRJMOD}/3Dmodels/PTS-1-5-2.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -21802,7 +21802,7 @@
 			(uuid "628d87b3-0fcf-4d29-af16-4508bd313377")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/TA2/Documents/KiCad/library/DCDC_aoki/DCDC_aoki.pretty/M78AR-1.stp"
+		(model "${KIPRJMOD}/3Dmodels/M78AR-1.stp"
 			(offset
 				(xyz 0 0 0)
 			)
