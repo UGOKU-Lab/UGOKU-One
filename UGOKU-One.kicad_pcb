@@ -17520,6 +17520,17 @@
 			(uuid "6d3056bd-28dd-458a-bec8-3d6dbbac5f9e")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/3Dmodels/SW_XKB_SS-12M11G5.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Diode_SMD:D_SMA"
 		(layer "F.Cu")
