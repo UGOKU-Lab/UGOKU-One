@@ -12534,7 +12534,7 @@
 	(footprint "Resistor_SMD:R_0603_1608Metric"
 		(layer "F.Cu")
 		(uuid "879e4f63-e74d-4166-a549-6853ed2acdbe")
-		(at 27.8 -13)
+		(at 28 -13)
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R7"
@@ -23934,7 +23934,7 @@
 		)
 	)
 	(gr_text "5V"
-		(at 16.5 -7.9 0)
+		(at 15.9 -2.4 0)
 		(layer "F.SilkS")
 		(uuid "4a1ce520-6757-4c0c-97c5-cbcab23ff619")
 		(effects
@@ -24402,7 +24402,7 @@
 		)
 	)
 	(gr_text "3V3"
-		(at 16.2 -1.5 0)
+		(at 24.1 -7.4 0)
 		(layer "F.SilkS")
 		(uuid "eccb7b92-0308-487e-aee6-6347a30d9a61")
 		(effects
