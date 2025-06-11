@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "f89d8039-fb4d-432a-bf6a-fadbc30a6f09")
 	(paper "A2")
+	(title_block
+		(title "UGOKU One V 1.1.0")
+		(date "2025-06-12")
+		(company "UGOKU Lab")
+	)
 	(lib_symbols
 		(symbol "+5V_1"
 			(power)
