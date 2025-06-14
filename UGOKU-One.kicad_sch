@@ -5183,272 +5183,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SW_Slide_DPDT_1"
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "SW5"
-				(at 1.2701 -6.35 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify right)
-				)
-			)
-			(property "Value" "SW_Slide_DPDT"
-				(at -1.2699 -6.35 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify right)
-				)
-			)
-			(property "Footprint" "0_UGOKU-One_Lib:SSSS213202"
-				(at 13.97 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Slide Switch, dual pole double throw"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "switch dual-pole double-throw dpdt ON-ON"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SW_Slide_DPDT_1_0_0"
-				(circle
-					(center -2.032 5.08)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -2.032 -5.08)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 -5.08)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SW_Slide_DPDT_1_0_1"
-				(circle
-					(center -2.032 0)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.032 5.08)
-					(radius 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "SW_Slide_DPDT_1_1_1"
-				(rectangle
-					(start -1.397 5.588)
-					(end -0.762 -0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 0.762 5.588)
-					(end 1.397 -0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(pin passive line
-					(at -5.08 5.08 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 5.08 180)
-					(length 2.54)
-					(name "C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -5.08 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Simulation_SPICE:NMOS"
 			(pin_numbers
 				(hide yes)
@@ -7393,12 +7127,6 @@
 		(uuid "5752a2ec-4acb-4335-8dba-ea1d1db19e20")
 	)
 	(junction
-		(at 260.35 283.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5b8cae2c-282f-418f-b12a-c092e3d7e092")
-	)
-	(junction
 		(at 220.98 195.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7433,12 +7161,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84ee2351-c559-487a-a833-77ce96794df0")
-	)
-	(junction
-		(at 265.43 283.21)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "872f35f4-f76e-45a5-9f7f-0eb3d8dbeee2")
 	)
 	(junction
 		(at 364.49 163.83)
@@ -8680,16 +8402,6 @@
 	)
 	(wire
 		(pts
-			(xy 260.35 283.21) (xy 260.35 293.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8666c966-cbed-4564-be76-b34c3c262bcb")
-	)
-	(wire
-		(pts
 			(xy 403.86 257.81) (xy 421.64 257.81)
 		)
 		(stroke
@@ -8747,16 +8459,6 @@
 			(type default)
 		)
 		(uuid "8d3a50ee-f9c1-4250-85b0-4cae045cfd42")
-	)
-	(wire
-		(pts
-			(xy 265.43 283.21) (xy 265.43 293.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f5a93f8-99ab-4082-97f4-158e4ad8954e")
 	)
 	(wire
 		(pts
@@ -11918,8 +11620,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3V3_IMU"
-			(at 231.902 316.738 0)
+		(property "Value" "3V3"
+			(at 229.108 316.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12178,7 +11880,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1.5k"
 			(at 319.278 317.373 0)
 			(effects
 				(font
@@ -13153,8 +12855,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3V3_IMU"
-			(at 273.812 304.038 0)
+		(property "Value" "3V3"
+			(at 268.224 304.292 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16264,89 +15966,6 @@
 		)
 	)
 	(symbol
-		(lib_name "SW_Slide_DPDT_1")
-		(lib_id "Switch:SW_Slide_DPDT")
-		(at 260.35 288.29 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "68f7e910-94ce-4d56-9edc-ef7fbd725e8e")
-		(property "Reference" "SW5"
-			(at 266.7 287.0199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "SW_Slide_DPDT"
-			(at 266.7 289.5599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "0_UGOKU-One_Lib:SSSS213202"
-			(at 255.27 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 260.35 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Slide Switch, dual pole double throw"
-			(at 260.35 288.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e06de115-d5ee-4bd8-828c-b9c53f5fe614")
-		)
-		(pin "3"
-			(uuid "d1ee0693-7d7e-44d3-95c6-83dd52b2daff")
-		)
-		(pin "6"
-			(uuid "3d0e1032-a44d-49da-9004-7bd174330099")
-		)
-		(pin "4"
-			(uuid "9cba9bb9-705a-4024-bf21-75d289e58078")
-		)
-		(pin "2"
-			(uuid "7394053c-102c-41a9-89af-8c9b14abe63e")
-		)
-		(pin "5"
-			(uuid "9df55357-7fb1-4065-ab98-32f74d8dd4a4")
-		)
-		(instances
-			(project "UGOKU-One"
-				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "SW5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "+5V_1")
 		(lib_id "power:+5V")
 		(at 464.82 133.35 270)
@@ -16636,7 +16255,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1.5k"
 			(at 337.058 317.373 0)
 			(effects
 				(font
@@ -17763,71 +17382,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+3.3V")
-		(at 260.35 283.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "850e6f12-5256-494f-b78d-0096564545e2")
-		(property "Reference" "#PWR019"
-			(at 260.35 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3"
-			(at 260.731 278.8158 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 260.35 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 260.35 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 260.35 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0d76752d-13a8-4e90-b9e4-1719e791c973")
-		)
-		(instances
-			(project "UGOKU-One"
-				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR019")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_02x03_Odd_Even")
 		(at 261.62 260.35 180)
 		(unit 1)
@@ -18739,7 +18293,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2K"
+		(property "Value" "1.5k"
 			(at 218.948 100.203 0)
 			(effects
 				(font
@@ -19105,7 +18659,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "510"
+		(property "Value" "470"
 			(at 310.388 317.373 0)
 			(effects
 				(font
@@ -19946,7 +19500,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
+		(property "Value" "1.5k"
 			(at 328.168 317.373 0)
 			(effects
 				(font
@@ -20498,71 +20052,6 @@
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
 					(reference "#PWR080")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3.3V")
-		(at 265.43 283.21 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c149295f-af7e-4922-a88b-65b01ed3b347")
-		(property "Reference" "#PWR020"
-			(at 265.43 287.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "3V3_IMU"
-			(at 271.272 278.638 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 265.43 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 265.43 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 265.43 283.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "728290ac-7f6f-48d8-b4b2-df8b9facb2a3")
-		)
-		(instances
-			(project "UGOKU-One"
-				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -21687,8 +21176,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "3V3_IMU"
-			(at 286.512 304.038 0)
+		(property "Value" "3V3"
+			(at 280.924 304.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
