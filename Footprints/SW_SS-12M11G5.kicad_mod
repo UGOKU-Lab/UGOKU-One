@@ -108,4 +108,15 @@
 		(uuid "45cb4a8b-63a1-4494-b968-1020e3f70852")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3Dmodels/SW_XKB_SS-12M11G5.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
