@@ -1,5 +1,7 @@
 UGOKU One のハードウェア（KiCad）リポジトリです。
 
+[UGOKU One WEBサイト](https://ugoku-lab.github.io/ugokuone.html)
+
 UGOKU One はモータやセンサを使ったロボットなどのDIY製作物を少しでも手軽に操作することを目的に開発しているオープンソースハードウェアの汎用基板です。
     
 - 単四電池ボックス搭載で単四電池4本でDCモーターやRCサーボをの駆動が可能
