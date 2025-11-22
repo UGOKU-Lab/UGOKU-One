@@ -13,6 +13,7 @@ C18,0.1μF,C_0402_1005Metric,-21.6,-17.8,90.0,top
 C19,10μF,C_0805_2012Metric,-23.1,-18.0,90.0,top
 C2,22uF,C_0805_2012Metric,21.125,-25.8,0.0,top
 C3,0.1uF,C_0402_1005Metric,20.8,-24.6,0.0,top
+C4,C_Polarized,CP_Elec_5x5.4,-1.15,-14.65,-90.0,top
 C5,22μF,C_0805_2012Metric,3.2,26.15,90.0,top
 C6,0.1μF,C_0402_1005Metric,4.7,26.8,90.0,top
 C7,0.1uF,C_0402_1005Metric,0.0,15.5,180.0,top
@@ -25,6 +26,7 @@ D5,SS54,D_SMA,14.6,-14.6,-90.0,top
 D6,SS54,D_SMA,-20.5,-9.0,180.0,top
 D7,SS54,D_SMA,20.0,-16.4,0.0,top
 D8,SS54,D_SMA,30.0,-0.0,0.0,top
+D9,SMBJ5.5A,D_SMB,-3.45,-8.3,180.0,top
 J1,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,-19.19,30.75,90.0,top
 J10,Conn_01x02,PTS_1.5_2,-20.0,-27.5,0.0,top
 J11,USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,17.0,-30.185,0.0,top
