@@ -181,7 +181,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.1,
+        "min_clearance": 0.11,
         "min_connection": 0.2,
         "min_copper_edge_clearance": 0.24,
         "min_groove_width": 0.0,
@@ -324,7 +324,7 @@
           "drill": 1.0
         }
       ],
-      "zones_allow_external_fillets": false
+      "zones_allow_external_fillets": true
     },
     "ipc2581": {
       "dist": "",
@@ -716,7 +716,9 @@
     "meta": {
       "version": 4
     },
-    "net_colors": null,
+    "net_colors": {
+      "GND": "rgb(0, 66, 255)"
+    },
     "netclass_assignments": null,
     "netclass_patterns": [
       {
