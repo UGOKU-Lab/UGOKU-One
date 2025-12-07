@@ -1,5 +1,5 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-BT1,Battery,BAT_2481,-4.03,-5.768,0.0,bottom
+BT1,Battery,BAT_2481,-25.48,-12.368,0.0,bottom
 C1,22μF,C_0805_2012Metric,18.1,0.1,0.0,top
 C10,22μF,C_0805_2012Metric,15.5,5.8,90.0,top
 C11,22μF,C_0805_2012Metric,32.73,-17.675,-90.0,top
