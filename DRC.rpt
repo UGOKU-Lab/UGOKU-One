@@ -1,12 +1,12 @@
 ** Drc report for UGOKU-One.kicad_pcb **
-** Created on 2025-12-06T20:19:41+0900 **
+** Created on 2025-12-07T10:05:59+0900 **
 
 ** Found 14 DRC violations **
 [clearance]: クリアランス違反 (ネットクラス '1.5A' クリアランス 0.2000 mm; 現状 0.1950 mm)
     ルール: ネットクラス '1.5A'; warning (excluded)
-    @(17.3000 mm, 24.3000 mm): パッド 5 [Net-(D3-A2)] - U2 ( F.Cu 上)
     @(17.7500 mm, 24.3250 mm): 配線 [3V3] ( F.Cu 上、長さ: 0.5000 mm )
-    ICのランド同士のためOK
+    @(17.3000 mm, 24.3000 mm): パッド 5 [Net-(D3-A2)] - U2 ( F.Cu 上)
+    Pad間クリアランスのためOK
 [clearance]: クリアランス違反 (ネットクラス '1.5A' クリアランス 0.2000 mm; 現状 0.1900 mm)
     ルール: ネットクラス '1.5A'; warning (excluded)
     @(17.3000 mm, 24.3000 mm): パッド 5 [Net-(D3-A2)] - U2 ( F.Cu 上)
@@ -67,6 +67,30 @@
 
 ** Found 0 unconnected pads **
 
-** Found 0 Footprint errors **
+** Found 8 Footprint errors **
+[footprint_filters_mismatch]: 0_UGOKU-One_Lib:PTS_1.5_2 はシンボルのフットプリント フィルター ( Connector*:*_1x??_* ) と一致しません。
+    ローカル オーバーライド; warning
+    @(-9.5000 mm, 27.5000 mm): フットプリント J6
+[footprint_filters_mismatch]: 0_UGOKU-One_Lib:PTS_1.5_2 はシンボルのフットプリント フィルター ( Connector*:*_1x??_* ) と一致しません。
+    ローカル オーバーライド; warning
+    @(-20.0000 mm, 27.5000 mm): フットプリント J10
+[footprint_filters_mismatch]: 0_UGOKU-One_Lib:PTS_1.5_2 はシンボルのフットプリント フィルター ( Connector*:*_1x??_* ) と一致しません。
+    ローカル オーバーライド; warning
+    @(3.6000 mm, 27.5000 mm): フットプリント J12
+[footprint_filters_mismatch]: 0_UGOKU-One_Lib:PTS_1.5_2 はシンボルのフットプリント フィルター ( Connector*:*_1x??_* ) と一致しません。
+    ローカル オーバーライド; warning
+    @(27.5000 mm, 8.0000 mm): フットプリント J13
+[footprint_filters_mismatch]: Button_Switch_SMD:SW_DIP_SPSTx02_Slide_Omron_A6S-210x_W8.9mm_P2.54mm はシンボルのフットプリント フィルター ( SW?DIP?x2* ) と一致しません。
+    ローカル オーバーライド; warning
+    @(6.5000 mm, -5.0000 mm): フットプリント SW1
+[footprint_filters_mismatch]: Package_TO_SOT_SMD:SOT-223-3_TabPin2 はシンボルのフットプリント フィルター ( TO?252* ) と一致しません。
+    ローカル オーバーライド; warning
+    @(21.0000 mm, -4.7500 mm): フットプリント U1
+[footprint_filters_mismatch]: 0_UGOKU-One_Lib:M78AR はシンボルのフットプリント フィルター ( TO?252* ) と一致しません。
+    ローカル オーバーライド; warning
+    @(29.3300 mm, 19.9400 mm): フットプリント U4
+[footprint_filters_mismatch]: RF_Module:ESP32-WROOM-32E はシンボルのフットプリント フィルター ( ESP32?WROOM?32D* ) と一致しません。
+    ローカル オーバーライド; warning
+    @(15.0000 mm, -22.0200 mm): フットプリント U5
 
 ** End of Report **
