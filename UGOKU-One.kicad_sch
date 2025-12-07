@@ -18453,7 +18453,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "10k"
 			(at 377.952 325.247 0)
 			(effects
 				(font
@@ -18995,7 +18995,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 218.948 99.06 90)
 			(effects
 				(font
