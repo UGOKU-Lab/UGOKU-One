@@ -1,5 +1,5 @@
 ** Drc report for UGOKU-One.kicad_pcb **
-** Created on 2025-12-08T08:54:53+0900 **
+** Created on 2025-12-08T14:25:13+0900 **
 
 ** Found 14 DRC violations **
 [clearance]: クリアランス違反 (ネットクラス '1.5A' クリアランス 0.2000 mm; 現状 0.1950 mm)
