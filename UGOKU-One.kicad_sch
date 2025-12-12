@@ -7304,13 +7304,13 @@
 		(uuid "0ed5fae1-7de7-4bd4-91c9-83840e566df4")
 	)
 	(junction
-		(at 408.94 276.86)
+		(at 410.21 276.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a2ea42a-2989-4709-b20f-0edbcb60e810")
 	)
 	(junction
-		(at 425.45 234.95)
+		(at 426.72 234.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1b2ac1e0-6728-49a2-9de5-4b98d0ca70da")
@@ -7322,7 +7322,13 @@
 		(uuid "259ec5e5-b133-4e4e-bbb8-07e192118623")
 	)
 	(junction
-		(at 372.11 264.16)
+		(at 383.54 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "28d9de89-4f69-4978-9436-31443055a790")
+	)
+	(junction
+		(at 373.38 264.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2a0a4366-348c-410e-821e-fcf5b3106cc1")
@@ -7394,19 +7400,25 @@
 		(uuid "420f11bf-f862-4fce-9950-db8967e13d2f")
 	)
 	(junction
+		(at 448.31 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "450ecca9-8784-409a-8baa-b418433a6e81")
+	)
+	(junction
 		(at 147.32 317.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "477da00d-e8bc-4970-938c-d9be257b174f")
 	)
 	(junction
-		(at 388.62 303.53)
+		(at 393.7 307.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4cfb6c04-c425-4b93-b4a3-043032c9fc70")
 	)
 	(junction
-		(at 379.73 320.04)
+		(at 384.81 323.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4ed3cab6-55e0-46c4-a000-4ab2e8e4efb7")
@@ -7428,12 +7440,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "53d9e4f0-a5a2-4511-981e-a4deb8c28f58")
-	)
-	(junction
-		(at 361.95 140.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5752a2ec-4acb-4335-8dba-ea1d1db19e20")
 	)
 	(junction
 		(at 220.98 195.58)
@@ -7466,7 +7472,7 @@
 		(uuid "7d21d41a-0774-4abd-b99e-e640d96dcd45")
 	)
 	(junction
-		(at 414.02 234.95)
+		(at 415.29 234.95)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84ee2351-c559-487a-a833-77ce96794df0")
@@ -7514,12 +7520,6 @@
 		(uuid "a5503416-ff45-4ca8-ae7f-2474a4b653de")
 	)
 	(junction
-		(at 449.58 140.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a69e8a02-908c-421e-8948-f51cea9c71c8")
-	)
-	(junction
 		(at 259.08 194.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -7556,7 +7556,13 @@
 		(uuid "c7c546db-fb0b-4e8f-a7df-c8dc66cd11d3")
 	)
 	(junction
-		(at 388.62 311.15)
+		(at 363.22 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d0177c16-0c88-497f-badd-81daa09eb876")
+	)
+	(junction
+		(at 393.7 314.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d2463bff-0d55-4673-a14a-f12cd7dbbce6")
@@ -7568,19 +7574,13 @@
 		(uuid "d660cd1c-80cd-4bb2-b522-6b858b42d049")
 	)
 	(junction
-		(at 382.27 140.97)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e53250d3-5d1f-4263-9a86-4afdff2c76ce")
-	)
-	(junction
 		(at 234.95 185.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e6299a03-f844-4920-8e20-2a2ce4a620bc")
 	)
 	(junction
-		(at 378.46 266.7)
+		(at 379.73 266.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f84f4f11-3b31-4bf4-b4fd-717d38e095a0")
@@ -7755,7 +7755,7 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 259.08) (xy 426.72 259.08)
+			(xy 410.21 259.08) (xy 421.64 259.08)
 		)
 		(stroke
 			(width 0)
@@ -7855,7 +7855,7 @@
 	)
 	(wire
 		(pts
-			(xy 447.04 140.97) (xy 449.58 140.97)
+			(xy 447.04 140.97) (xy 448.31 140.97)
 		)
 		(stroke
 			(width 0)
@@ -7915,7 +7915,7 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 264.16) (xy 378.46 264.16)
+			(xy 373.38 264.16) (xy 379.73 264.16)
 		)
 		(stroke
 			(width 0)
@@ -8025,7 +8025,7 @@
 	)
 	(wire
 		(pts
-			(xy 449.58 157.48) (xy 449.58 153.67)
+			(xy 448.31 157.48) (xy 448.31 153.67)
 		)
 		(stroke
 			(width 0)
@@ -8045,7 +8045,7 @@
 	)
 	(wire
 		(pts
-			(xy 388.62 311.15) (xy 388.62 314.96)
+			(xy 393.7 314.96) (xy 393.7 318.77)
 		)
 		(stroke
 			(width 0)
@@ -8115,7 +8115,7 @@
 	)
 	(wire
 		(pts
-			(xy 369.57 264.16) (xy 372.11 264.16)
+			(xy 370.84 264.16) (xy 373.38 264.16)
 		)
 		(stroke
 			(width 0)
@@ -8145,7 +8145,7 @@
 	)
 	(wire
 		(pts
-			(xy 355.6 140.97) (xy 361.95 140.97)
+			(xy 355.6 140.97) (xy 363.22 140.97)
 		)
 		(stroke
 			(width 0)
@@ -8155,7 +8155,7 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 322.58) (xy 379.73 320.04)
+			(xy 384.81 326.39) (xy 384.81 323.85)
 		)
 		(stroke
 			(width 0)
@@ -8165,7 +8165,7 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 271.78) (xy 408.94 276.86)
+			(xy 410.21 271.78) (xy 410.21 276.86)
 		)
 		(stroke
 			(width 0)
@@ -8205,7 +8205,7 @@
 	)
 	(wire
 		(pts
-			(xy 388.62 308.61) (xy 388.62 311.15)
+			(xy 393.7 312.42) (xy 393.7 314.96)
 		)
 		(stroke
 			(width 0)
@@ -8235,7 +8235,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 306.07) (xy 388.62 306.07)
+			(xy 398.78 309.88) (xy 393.7 309.88)
 		)
 		(stroke
 			(width 0)
@@ -8265,7 +8265,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 140.97) (xy 361.95 146.05)
+			(xy 363.22 140.97) (xy 363.22 146.05)
 		)
 		(stroke
 			(width 0)
@@ -8285,7 +8285,7 @@
 	)
 	(wire
 		(pts
-			(xy 373.38 157.48) (xy 382.27 157.48)
+			(xy 373.38 157.48) (xy 383.54 157.48)
 		)
 		(stroke
 			(width 0)
@@ -8335,7 +8335,7 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 269.24) (xy 372.11 264.16)
+			(xy 373.38 269.24) (xy 373.38 264.16)
 		)
 		(stroke
 			(width 0)
@@ -8395,16 +8395,6 @@
 	)
 	(wire
 		(pts
-			(xy 453.39 140.97) (xy 449.58 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54fca731-719f-4f4d-80b9-a299fe3142af")
-	)
-	(wire
-		(pts
 			(xy 280.67 137.16) (xy 267.97 137.16)
 		)
 		(stroke
@@ -8425,7 +8415,7 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 266.7) (xy 378.46 269.24)
+			(xy 379.73 266.7) (xy 379.73 269.24)
 		)
 		(stroke
 			(width 0)
@@ -8435,7 +8425,7 @@
 	)
 	(wire
 		(pts
-			(xy 381 140.97) (xy 382.27 140.97)
+			(xy 381 140.97) (xy 383.54 140.97)
 		)
 		(stroke
 			(width 0)
@@ -8495,7 +8485,7 @@
 	)
 	(wire
 		(pts
-			(xy 388.62 306.07) (xy 388.62 303.53)
+			(xy 393.7 309.88) (xy 393.7 307.34)
 		)
 		(stroke
 			(width 0)
@@ -8525,6 +8515,16 @@
 	)
 	(wire
 		(pts
+			(xy 448.31 140.97) (xy 453.39 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "701fbb8c-d85b-414c-b12f-b0b55b2291e6")
+	)
+	(wire
+		(pts
 			(xy 189.23 132.08) (xy 189.23 149.86)
 		)
 		(stroke
@@ -8545,7 +8545,7 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 146.05) (xy 382.27 140.97)
+			(xy 383.54 146.05) (xy 383.54 140.97)
 		)
 		(stroke
 			(width 0)
@@ -8555,7 +8555,7 @@
 	)
 	(wire
 		(pts
-			(xy 411.48 113.03) (xy 411.48 124.46)
+			(xy 411.48 115.57) (xy 411.48 124.46)
 		)
 		(stroke
 			(width 0)
@@ -8625,7 +8625,7 @@
 	)
 	(wire
 		(pts
-			(xy 372.11 276.86) (xy 372.11 278.13)
+			(xy 373.38 276.86) (xy 373.38 278.13)
 		)
 		(stroke
 			(width 0)
@@ -8785,7 +8785,7 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 266.7) (xy 417.83 266.7)
+			(xy 410.21 266.7) (xy 419.1 266.7)
 		)
 		(stroke
 			(width 0)
@@ -8875,7 +8875,7 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 234.95) (xy 408.94 256.54)
+			(xy 410.21 234.95) (xy 410.21 256.54)
 		)
 		(stroke
 			(width 0)
@@ -8915,7 +8915,7 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 320.04) (xy 381 320.04)
+			(xy 384.81 323.85) (xy 386.08 323.85)
 		)
 		(stroke
 			(width 0)
@@ -8925,7 +8925,7 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 311.15) (xy 388.62 311.15)
+			(xy 384.81 314.96) (xy 393.7 314.96)
 		)
 		(stroke
 			(width 0)
@@ -8965,7 +8965,7 @@
 	)
 	(wire
 		(pts
-			(xy 449.58 146.05) (xy 449.58 140.97)
+			(xy 448.31 146.05) (xy 448.31 140.97)
 		)
 		(stroke
 			(width 0)
@@ -8975,17 +8975,7 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 140.97) (xy 386.08 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6d2ff82-93a5-4ec3-912e-f27f8fbeca6b")
-	)
-	(wire
-		(pts
-			(xy 436.88 234.95) (xy 425.45 234.95)
+			(xy 438.15 234.95) (xy 426.72 234.95)
 		)
 		(stroke
 			(width 0)
@@ -8995,7 +8985,7 @@
 	)
 	(wire
 		(pts
-			(xy 414.02 237.49) (xy 414.02 234.95)
+			(xy 415.29 237.49) (xy 415.29 234.95)
 		)
 		(stroke
 			(width 0)
@@ -9035,7 +9025,7 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 264.16) (xy 417.83 264.16)
+			(xy 410.21 264.16) (xy 419.1 264.16)
 		)
 		(stroke
 			(width 0)
@@ -9075,7 +9065,7 @@
 	)
 	(wire
 		(pts
-			(xy 388.62 330.2) (xy 388.62 325.12)
+			(xy 393.7 334.01) (xy 393.7 328.93)
 		)
 		(stroke
 			(width 0)
@@ -9155,7 +9145,7 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 234.95) (xy 414.02 234.95)
+			(xy 426.72 234.95) (xy 415.29 234.95)
 		)
 		(stroke
 			(width 0)
@@ -9215,7 +9205,7 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 237.49) (xy 425.45 234.95)
+			(xy 426.72 237.49) (xy 426.72 234.95)
 		)
 		(stroke
 			(width 0)
@@ -9245,7 +9235,7 @@
 	)
 	(wire
 		(pts
-			(xy 367.03 320.04) (xy 370.84 320.04)
+			(xy 372.11 323.85) (xy 375.92 323.85)
 		)
 		(stroke
 			(width 0)
@@ -9275,7 +9265,7 @@
 	)
 	(wire
 		(pts
-			(xy 439.42 157.48) (xy 449.58 157.48)
+			(xy 439.42 157.48) (xy 448.31 157.48)
 		)
 		(stroke
 			(width 0)
@@ -9295,7 +9285,7 @@
 	)
 	(wire
 		(pts
-			(xy 369.57 266.7) (xy 378.46 266.7)
+			(xy 370.84 266.7) (xy 379.73 266.7)
 		)
 		(stroke
 			(width 0)
@@ -9315,7 +9305,7 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 320.04) (xy 379.73 320.04)
+			(xy 383.54 323.85) (xy 384.81 323.85)
 		)
 		(stroke
 			(width 0)
@@ -9335,7 +9325,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 157.48) (xy 361.95 153.67)
+			(xy 363.22 157.48) (xy 363.22 153.67)
 		)
 		(stroke
 			(width 0)
@@ -9365,7 +9355,7 @@
 	)
 	(wire
 		(pts
-			(xy 378.46 276.86) (xy 378.46 278.13)
+			(xy 379.73 276.86) (xy 379.73 278.13)
 		)
 		(stroke
 			(width 0)
@@ -9395,7 +9385,7 @@
 	)
 	(wire
 		(pts
-			(xy 382.27 157.48) (xy 382.27 153.67)
+			(xy 383.54 157.48) (xy 383.54 153.67)
 		)
 		(stroke
 			(width 0)
@@ -9415,7 +9405,7 @@
 	)
 	(wire
 		(pts
-			(xy 365.76 140.97) (xy 361.95 140.97)
+			(xy 365.76 140.97) (xy 363.22 140.97)
 		)
 		(stroke
 			(width 0)
@@ -9425,7 +9415,7 @@
 	)
 	(wire
 		(pts
-			(xy 361.95 157.48) (xy 373.38 157.48)
+			(xy 363.22 157.48) (xy 373.38 157.48)
 		)
 		(stroke
 			(width 0)
@@ -9465,7 +9455,7 @@
 	)
 	(wire
 		(pts
-			(xy 379.73 303.53) (xy 388.62 303.53)
+			(xy 384.81 307.34) (xy 393.7 307.34)
 		)
 		(stroke
 			(width 0)
@@ -9475,7 +9465,7 @@
 	)
 	(wire
 		(pts
-			(xy 388.62 303.53) (xy 388.62 299.72)
+			(xy 393.7 307.34) (xy 393.7 303.53)
 		)
 		(stroke
 			(width 0)
@@ -9495,7 +9485,7 @@
 	)
 	(wire
 		(pts
-			(xy 393.7 308.61) (xy 388.62 308.61)
+			(xy 398.78 312.42) (xy 393.7 312.42)
 		)
 		(stroke
 			(width 0)
@@ -9545,7 +9535,7 @@
 	)
 	(wire
 		(pts
-			(xy 414.02 234.95) (xy 408.94 234.95)
+			(xy 415.29 234.95) (xy 410.21 234.95)
 		)
 		(stroke
 			(width 0)
@@ -9562,6 +9552,16 @@
 			(type default)
 		)
 		(uuid "e6915409-1a76-418f-a7af-d92cbe37091e")
+	)
+	(wire
+		(pts
+			(xy 383.54 140.97) (xy 386.08 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7c15f3d-f57d-48b6-9948-455ed33f3a4c")
 	)
 	(wire
 		(pts
@@ -9725,7 +9725,7 @@
 	)
 	(wire
 		(pts
-			(xy 408.94 276.86) (xy 408.94 278.13)
+			(xy 410.21 276.86) (xy 410.21 278.13)
 		)
 		(stroke
 			(width 0)
@@ -10047,7 +10047,7 @@
 	)
 	(global_label "MD2_IN2"
 		(shape input)
-		(at 369.57 266.7 180)
+		(at 370.84 266.7 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10058,7 +10058,7 @@
 		)
 		(uuid "1de813d3-87ce-400a-b195-f9bf4de5d869")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 358.5415 266.7 0)
+			(at 359.8115 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10116,7 +10116,7 @@
 	)
 	(global_label "MOT_PWR"
 		(shape input)
-		(at 436.88 234.95 0)
+		(at 438.15 234.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10126,7 +10126,7 @@
 		)
 		(uuid "2260b9b5-227e-4e2a-a820-bd3fd61cb685")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 448.5737 234.95 0)
+			(at 449.8437 234.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10431,7 +10431,7 @@
 	)
 	(global_label "MD2_IN1"
 		(shape input)
-		(at 369.57 264.16 180)
+		(at 370.84 264.16 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10442,7 +10442,7 @@
 		)
 		(uuid "5090dd34-d717-4492-8326-6ee3419bef7b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 358.5415 264.16 0)
+			(at 359.8115 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11370,7 +11370,7 @@
 	)
 	(global_label "USB_5V"
 		(shape input)
-		(at 411.48 113.03 90)
+		(at 411.48 115.57 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11380,7 +11380,7 @@
 		)
 		(uuid "b2cec01d-cd10-4c58-bb88-9d997f2a687b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 411.48 102.9691 90)
+			(at 411.48 105.5091 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11730,7 +11730,7 @@
 	)
 	(global_label "MOT_PWR"
 		(shape input)
-		(at 388.62 299.72 90)
+		(at 393.7 303.53 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11740,7 +11740,7 @@
 		)
 		(uuid "d901196c-ad25-4d3d-becf-6178990a4f14")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 388.62 288.0263 90)
+			(at 393.7 291.8363 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11953,7 +11953,7 @@
 	)
 	(global_label "FET_SW"
 		(shape input)
-		(at 367.03 320.04 180)
+		(at 372.11 323.85 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11964,7 +11964,7 @@
 		)
 		(uuid "f3d4ff54-b388-4185-8553-423bd3bbefa7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 357.2111 320.04 0)
+			(at 362.2911 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12052,7 +12052,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "05834ffb-f38f-489d-81bb-8833c5fda812")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR06"
 			(at 350.52 121.92 0)
 			(effects
 				(font
@@ -12102,7 +12102,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR083")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -12252,7 +12252,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "09b36963-d44c-4011-b0ff-71f63e034867")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR047"
 			(at 317.5 308.61 0)
 			(effects
 				(font
@@ -12302,7 +12302,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR021")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -12317,7 +12317,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0a1297ac-ca9d-4126-b860-4d289d0a25e8")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR052"
 			(at 149.86 312.42 0)
 			(effects
 				(font
@@ -12367,7 +12367,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR068")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -12382,7 +12382,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0b5007cb-1505-4464-8cb2-8c4c90ce0c7b")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR07"
 			(at 378.46 127 0)
 			(effects
 				(font
@@ -12432,7 +12432,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR056")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -12447,7 +12447,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0d8fb609-ab07-4c55-8881-0dcbc0a88a44")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR026"
 			(at 330.2 209.55 0)
 			(effects
 				(font
@@ -12497,7 +12497,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR028")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -12512,7 +12512,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0dee3207-33b0-4f7e-8519-25ec996e2531")
-		(property "Reference" "J5"
+		(property "Reference" "J11"
 			(at 269.24 273.05 0)
 			(effects
 				(font
@@ -12577,7 +12577,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "J5")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -12592,7 +12592,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0f47941f-f303-4960-a1e8-93e74805ccda")
-		(property "Reference" "R5"
+		(property "Reference" "R20"
 			(at 319.278 315.0616 0)
 			(effects
 				(font
@@ -12646,7 +12646,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R5")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -12661,7 +12661,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "10d6ff82-227a-4106-8b0b-6779b3be36bd")
-		(property "Reference" "D9"
+		(property "Reference" "D4"
 			(at 400.558 147.32 90)
 			(effects
 				(font
@@ -12715,7 +12715,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "D9")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -12730,7 +12730,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "120f2456-1c14-4046-96ca-10a5f84e29d8")
-		(property "Reference" "C1"
+		(property "Reference" "C6"
 			(at 432.181 148.6916 0)
 			(effects
 				(font
@@ -12784,7 +12784,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C1")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -12799,7 +12799,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "12e44f2d-aba5-4d1a-a1f0-0a50e272b0a5")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR043"
 			(at 325.12 292.1 0)
 			(effects
 				(font
@@ -12855,7 +12855,7 @@
 			)
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR025")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -12870,7 +12870,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1320c8fd-593b-4699-9ee5-3ff4336a3c2f")
-		(property "Reference" "C4"
+		(property "Reference" "C5"
 			(at 418.846 148.59 0)
 			(effects
 				(font
@@ -12924,7 +12924,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C4")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -12932,15 +12932,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 372.11 273.05 0)
+		(at 373.38 273.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "138a1e50-1c5a-4f62-96e5-3935a77b4169")
-		(property "Reference" "R26"
-			(at 371.094 274.0914 0)
+		(property "Reference" "R15"
+			(at 372.364 274.0914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12949,7 +12949,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 371.094 271.78 0)
+			(at 372.364 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12958,7 +12958,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 370.332 273.05 90)
+			(at 371.602 273.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12967,7 +12967,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 372.11 273.05 0)
+			(at 373.38 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12976,7 +12976,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 372.11 273.05 0)
+			(at 373.38 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12993,7 +12993,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R26")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -13008,7 +13008,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "13c952ae-da4e-408f-91b6-9251d476bf68")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR055"
 			(at 308.61 326.39 0)
 			(effects
 				(font
@@ -13058,7 +13058,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR018")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -13073,7 +13073,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "158d1781-e0d1-42fc-921b-3e73aef1646d")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR025"
 			(at 220.98 205.74 0)
 			(effects
 				(font
@@ -13123,7 +13123,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR023")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -13138,7 +13138,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1817fcde-e67b-442c-be6d-458b0f67b9cb")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR022"
 			(at 416.56 198.12 0)
 			(effects
 				(font
@@ -13188,7 +13188,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR075")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -13203,7 +13203,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1a1ce84d-4f86-4849-9f47-17d53ad65793")
-		(property "Reference" "D3"
+		(property "Reference" "D6"
 			(at 191.008 152.4 90)
 			(effects
 				(font
@@ -13258,7 +13258,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "D3")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -13274,7 +13274,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1aba3187-cc8b-422c-b45e-1b40f6414688")
-		(property "Reference" "SW6"
+		(property "Reference" "SW2"
 			(at 264.16 176.53 0)
 			(effects
 				(font
@@ -13326,7 +13326,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "SW6")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -13341,7 +13341,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1d8fdfad-c7bc-4d16-8a9a-3eca2ede0642")
-		(property "Reference" "C5"
+		(property "Reference" "C13"
 			(at 344.551 198.2216 0)
 			(effects
 				(font
@@ -13395,7 +13395,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C5")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -13411,7 +13411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22df63cf-46b1-4270-a96c-7befd2ee9cc0")
-		(property "Reference" "C21"
+		(property "Reference" "C18"
 			(at 208.28 307.3399 0)
 			(effects
 				(font
@@ -13465,7 +13465,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C21")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -13480,7 +13480,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "22e2bb8b-b8f6-431d-a43f-d8c6573e8fe6")
-		(property "Reference" "U4"
+		(property "Reference" "U2"
 			(at 373.38 134.8232 0)
 			(effects
 				(font
@@ -13536,7 +13536,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "U4")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -13551,7 +13551,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "22e5c6dc-2f5a-4046-932c-70877f1eea23")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR044"
 			(at 191.77 299.72 0)
 			(effects
 				(font
@@ -13601,7 +13601,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR069")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -13616,7 +13616,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "26c2d68f-beeb-4390-a84c-0b33bbf480ba")
-		(property "Reference" "R15"
+		(property "Reference" "R7"
 			(at 212.598 152.5016 0)
 			(effects
 				(font
@@ -13670,7 +13670,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R15")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -13685,7 +13685,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "274144dd-b4c6-45ee-91da-423ff62d268a")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR019"
 			(at 439.42 165.1 0)
 			(effects
 				(font
@@ -13741,7 +13741,7 @@
 			)
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR040")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -13756,7 +13756,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2adeb958-b2f5-42b7-a045-4feeb770411a")
-		(property "Reference" "R21"
+		(property "Reference" "R9"
 			(at 270.002 219.6084 0)
 			(effects
 				(font
@@ -13810,7 +13810,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R21")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -13825,7 +13825,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "30f63d74-83d0-46c3-96a1-80bdc483e25a")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR024"
 			(at 259.08 204.47 0)
 			(effects
 				(font
@@ -13875,7 +13875,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR029")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -13890,7 +13890,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "312e6d9c-abcc-49d4-97f8-7a02e6c2c6f2")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR028"
 			(at 271.78 218.44 0)
 			(effects
 				(font
@@ -13940,7 +13940,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR061")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -13955,7 +13955,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "32f5e56d-34bf-4f7f-9173-79d0ca857a8d")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR050"
 			(at 143.51 309.88 0)
 			(effects
 				(font
@@ -14005,7 +14005,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR07")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -14084,7 +14084,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "362d4570-31b7-4221-8de4-10296537a779")
-		(property "Reference" "R20"
+		(property "Reference" "R6"
 			(at 155.448 152.5016 0)
 			(effects
 				(font
@@ -14138,7 +14138,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R20")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -14153,7 +14153,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "384bb185-a058-4486-b8f1-cd7c677c2fc2")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR029"
 			(at 250.19 219.71 0)
 			(effects
 				(font
@@ -14203,7 +14203,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR085")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -14218,7 +14218,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "389346f0-9b8c-4bde-9a11-1c520c9da887")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR01"
 			(at 270.51 96.52 0)
 			(effects
 				(font
@@ -14268,7 +14268,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR049")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -14283,7 +14283,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3a594518-1839-4eb6-928f-3679e1d4e28f")
-		(property "Reference" "R2"
+		(property "Reference" "R17"
 			(at 141.732 311.0484 0)
 			(effects
 				(font
@@ -14337,7 +14337,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R2")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -14352,7 +14352,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3aa97614-f250-4dce-85e2-423a937b8265")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR018"
 			(at 415.29 165.1 0)
 			(effects
 				(font
@@ -14402,7 +14402,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR04")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -14417,7 +14417,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3d2b571d-bb5b-466c-8b9c-1512b207c2b8")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR011"
 			(at 153.67 163.83 0)
 			(effects
 				(font
@@ -14467,7 +14467,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR071")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -14482,7 +14482,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3d451b9f-87d7-4b39-a0bb-9e3ed4b8ee89")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR048"
 			(at 326.39 308.61 0)
 			(effects
 				(font
@@ -14532,7 +14532,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR022")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -14617,7 +14617,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "44e7f580-9211-4938-b654-d909c7b03f56")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR013"
 			(at 189.23 163.83 0)
 			(effects
 				(font
@@ -14667,7 +14667,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR054")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -14682,7 +14682,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "46fce68c-a7a8-45ea-9066-c15d42866fa2")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR046"
 			(at 308.61 308.61 0)
 			(effects
 				(font
@@ -14732,7 +14732,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR017")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -14740,15 +14740,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 361.95 149.86 0)
+		(at 363.22 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "4846addb-b1f4-444a-9443-58de5287086e")
-		(property "Reference" "C9"
-			(at 364.871 148.6916 0)
+		(property "Reference" "C3"
+			(at 366.141 148.6916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14757,7 +14757,7 @@
 			)
 		)
 		(property "Value" "10μF"
-			(at 364.871 151.003 0)
+			(at 366.141 151.003 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14766,7 +14766,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 362.9152 153.67 0)
+			(at 364.1852 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14775,7 +14775,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 361.95 149.86 0)
+			(at 363.22 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14784,7 +14784,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 361.95 149.86 0)
+			(at 363.22 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14801,7 +14801,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C9")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -14816,7 +14816,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "49e18148-05ac-48d6-bcc8-5785655af12f")
-		(property "Reference" "R16"
+		(property "Reference" "R2"
 			(at 283.718 116.9416 0)
 			(effects
 				(font
@@ -14870,7 +14870,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R16")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -14886,7 +14886,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a4e7480-3bcf-4fdf-811a-c3fa18c36100")
-		(property "Reference" "J11"
+		(property "Reference" "J3"
 			(at 124.46 109.22 0)
 			(effects
 				(font
@@ -14983,7 +14983,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "J11")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -15063,7 +15063,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ebe0b77-d74f-4759-a71e-e99d8516e43e")
-		(property "Reference" "D6"
+		(property "Reference" "D1"
 			(at 400.05 127.3174 90)
 			(effects
 				(font
@@ -15117,7 +15117,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "D6")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -15125,15 +15125,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 388.62 330.2 0)
+		(at 393.7 334.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "4efc2917-d919-4427-99b1-378d86afc568")
-		(property "Reference" "#PWR073"
-			(at 388.62 336.55 0)
+		(property "Reference" "#PWR058"
+			(at 393.7 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15142,7 +15142,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 388.62 335.28 0)
+			(at 393.7 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15150,7 +15150,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 388.62 330.2 0)
+			(at 393.7 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15159,7 +15159,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 388.62 330.2 0)
+			(at 393.7 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15168,7 +15168,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 388.62 330.2 0)
+			(at 393.7 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15182,7 +15182,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR073")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -15198,7 +15198,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4f3d28fb-6bdb-4ce7-bab0-3ef752e22354")
-		(property "Reference" "U1"
+		(property "Reference" "U3"
 			(at 439.42 134.8232 0)
 			(effects
 				(font
@@ -15260,7 +15260,7 @@
 			)
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "U1")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -15275,7 +15275,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5030bf45-1b45-4268-9073-267e53d6f40d")
-		(property "Reference" "R31"
+		(property "Reference" "R11"
 			(at 378.714 219.4814 0)
 			(effects
 				(font
@@ -15329,7 +15329,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R31")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -15337,7 +15337,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 398.78 308.61 0)
+		(at 403.86 312.42 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15346,8 +15346,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "519620e7-d5f2-487a-a19f-95891ce04440")
-		(property "Reference" "J13"
-			(at 401.32 308.6101 0)
+		(property "Reference" "J12"
+			(at 406.4 312.4201 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15356,7 +15356,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 401.32 306.0701 0)
+			(at 406.4 309.8801 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15365,7 +15365,7 @@
 			)
 		)
 		(property "Footprint" "0_UGOKU-One_Lib:PTS_1.5_2"
-			(at 398.78 308.61 0)
+			(at 403.86 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15374,7 +15374,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 398.78 308.61 0)
+			(at 403.86 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15383,7 +15383,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 398.78 308.61 0)
+			(at 403.86 312.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15400,7 +15400,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "J13")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -15415,7 +15415,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "51e7094a-df1c-4dd8-a28b-76ec8c3d91c0")
-		(property "Reference" "R14"
+		(property "Reference" "R3"
 			(at 212.598 122.0216 0)
 			(effects
 				(font
@@ -15469,7 +15469,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R14")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -15484,7 +15484,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "53328972-9522-4d83-9690-a9f1bee4cfd7")
-		(property "Reference" "C6"
+		(property "Reference" "C12"
 			(at 333.121 198.2216 0)
 			(effects
 				(font
@@ -15538,7 +15538,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C6")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -15553,7 +15553,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59e421dd-28cb-435a-8a8e-8760ff5587ca")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR027"
 			(at 421.64 208.28 0)
 			(effects
 				(font
@@ -15603,7 +15603,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR036")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -15619,7 +15619,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c3a1219-7067-4812-bc60-810cea8e443d")
-		(property "Reference" "Q2"
+		(property "Reference" "Q1"
 			(at 320.04 143.5099 0)
 			(effects
 				(font
@@ -15679,7 +15679,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "Q2")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -15919,7 +15919,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5fe37e5e-1c1a-48f9-ba1c-d847baf8273f")
-		(property "Reference" "C17"
+		(property "Reference" "C8"
 			(at 419.481 186.7916 0)
 			(effects
 				(font
@@ -15973,7 +15973,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C17")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -16123,7 +16123,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "61cac613-b386-4e85-86a7-79685f518aca")
-		(property "Reference" "SW4"
+		(property "Reference" "SW3"
 			(at 227.33 177.8 0)
 			(effects
 				(font
@@ -16175,7 +16175,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "SW4")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -16183,15 +16183,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 372.11 278.13 0)
+		(at 373.38 278.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6237f0ee-b7b2-4fa8-9d20-d7f89c2f9693")
-		(property "Reference" "#PWR079"
-			(at 372.11 284.48 0)
+		(property "Reference" "#PWR040"
+			(at 373.38 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16200,7 +16200,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 372.11 283.21 0)
+			(at 373.38 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16208,7 +16208,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 372.11 278.13 0)
+			(at 373.38 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16217,7 +16217,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 372.11 278.13 0)
+			(at 373.38 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16226,7 +16226,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 372.11 278.13 0)
+			(at 373.38 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16240,7 +16240,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR079")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -16255,7 +16255,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6466c5cb-e1ac-4af3-85af-e3e4e51241e0")
-		(property "Reference" "J3"
+		(property "Reference" "J1"
 			(at 448.31 113.03 0)
 			(effects
 				(font
@@ -16320,7 +16320,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "J3")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -16335,7 +16335,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "65afbf9d-9b30-4b5f-8c19-ec9d94b63027")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR02"
 			(at 217.17 99.06 0)
 			(effects
 				(font
@@ -16385,7 +16385,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR048")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -16400,7 +16400,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6726ea72-f625-4e3c-bbe4-3743ba881438")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR05"
 			(at 213.36 116.84 0)
 			(effects
 				(font
@@ -16450,7 +16450,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR050")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -16465,7 +16465,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67d79d4d-a64b-4942-b8cb-95d03883cefc")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR037"
 			(at 226.06 251.46 0)
 			(effects
 				(font
@@ -16515,7 +16515,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR010")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -16523,15 +16523,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 414.02 241.3 0)
+		(at 415.29 241.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "69687669-ebf3-4af6-9ca4-7206b779deaa")
-		(property "Reference" "C18"
-			(at 416.941 240.1316 0)
+		(property "Reference" "C15"
+			(at 418.211 240.1316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16540,7 +16540,7 @@
 			)
 		)
 		(property "Value" "0.1μF"
-			(at 416.941 242.443 0)
+			(at 418.211 242.443 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16549,7 +16549,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 414.9852 245.11 0)
+			(at 416.2552 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16558,7 +16558,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 414.02 241.3 0)
+			(at 415.29 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16567,7 +16567,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 414.02 241.3 0)
+			(at 415.29 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16584,7 +16584,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C18")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -16599,7 +16599,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "698474e4-8fc0-4384-864a-ac3ef3c32603")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR053"
 			(at 191.77 318.77 0)
 			(effects
 				(font
@@ -16649,7 +16649,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR012")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -16657,15 +16657,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 378.46 273.05 0)
+		(at 379.73 273.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6d50490d-1900-4d90-b726-6fca906745dd")
-		(property "Reference" "R29"
-			(at 377.444 274.0914 0)
+		(property "Reference" "R16"
+			(at 378.714 274.0914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16674,7 +16674,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 377.444 271.78 0)
+			(at 378.714 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16683,7 +16683,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 376.682 273.05 90)
+			(at 377.952 273.05 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16692,7 +16692,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 378.46 273.05 0)
+			(at 379.73 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16701,7 +16701,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 378.46 273.05 0)
+			(at 379.73 273.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16718,7 +16718,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R29")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -16734,7 +16734,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d7c6b6a-47b8-4f69-aa76-a235c15cba3c")
-		(property "Reference" "D7"
+		(property "Reference" "D3"
 			(at 390.2075 134.62 0)
 			(effects
 				(font
@@ -16786,7 +16786,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "D7")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -16801,7 +16801,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6dae6959-88e1-4a69-a482-fbb9d761d2d7")
-		(property "Reference" "R7"
+		(property "Reference" "R22"
 			(at 337.058 315.0616 0)
 			(effects
 				(font
@@ -16855,7 +16855,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R7")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -16870,7 +16870,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7514f195-4a31-48a9-8742-ad538433f5f8")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR015"
 			(at 210.82 163.83 0)
 			(effects
 				(font
@@ -16920,7 +16920,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR044")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -16936,7 +16936,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7534dc4d-106c-449c-b0b7-ac3476583085")
-		(property "Reference" "U2"
+		(property "Reference" "U1"
 			(at 245.11 101.6 0)
 			(effects
 				(font
@@ -17190,7 +17190,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "U2")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -17198,15 +17198,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 378.46 278.13 0)
+		(at 379.73 278.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "7655649e-46c8-40c0-b538-a8dac8fff767")
-		(property "Reference" "#PWR084"
-			(at 378.46 284.48 0)
+		(property "Reference" "#PWR041"
+			(at 379.73 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17215,7 +17215,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 378.46 283.21 0)
+			(at 379.73 283.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17223,7 +17223,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 378.46 278.13 0)
+			(at 379.73 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17232,7 +17232,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 378.46 278.13 0)
+			(at 379.73 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17241,7 +17241,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 378.46 278.13 0)
+			(at 379.73 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17255,7 +17255,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR084")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -17270,7 +17270,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "765e6038-caa8-4b3e-9a62-255937cd4121")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR010"
 			(at 146.05 163.83 0)
 			(effects
 				(font
@@ -17320,7 +17320,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR078")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -17336,7 +17336,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7736e432-cdf1-4bfd-9acf-560a020a5fed")
-		(property "Reference" "D5"
+		(property "Reference" "D2"
 			(at 414.02 127.3174 90)
 			(effects
 				(font
@@ -17390,7 +17390,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "D5")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -17405,7 +17405,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "781f8e9f-87fb-4872-ba55-62396d7e6450")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR017"
 			(at 405.13 165.1 0)
 			(effects
 				(font
@@ -17455,7 +17455,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR03")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -17470,7 +17470,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7bdb908f-148c-429f-9de9-1f1728c3ef24")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR08"
 			(at 281.94 128.27 0)
 			(effects
 				(font
@@ -17520,7 +17520,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR045")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -17535,7 +17535,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7e2edf94-4c04-4312-b530-8796242bda18")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR023"
 			(at 427.99 198.12 0)
 			(effects
 				(font
@@ -17585,7 +17585,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR072")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -17593,7 +17593,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:NMOS")
-		(at 386.08 320.04 0)
+		(at 391.16 323.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17601,8 +17601,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ec83717-6dcd-4560-91f9-4e4b86af1cfb")
-		(property "Reference" "Q1"
-			(at 392.43 318.7699 0)
+		(property "Reference" "Q3"
+			(at 397.51 322.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17611,7 +17611,7 @@
 			)
 		)
 		(property "Value" "NMOS"
-			(at 392.43 321.3099 0)
+			(at 397.51 325.1199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17620,7 +17620,7 @@
 			)
 		)
 		(property "Footprint" "0_UGOKU-One_Lib:SOT-23F"
-			(at 391.16 317.5 0)
+			(at 396.24 321.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17629,7 +17629,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#cha_MOSFETs"
-			(at 386.08 332.74 0)
+			(at 391.16 336.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17638,7 +17638,7 @@
 			)
 		)
 		(property "Description" "N-MOSFET transistor, drain/source/gate"
-			(at 386.08 320.04 0)
+			(at 391.16 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17647,7 +17647,7 @@
 			)
 		)
 		(property "Sim.Device" "NMOS"
-			(at 386.08 337.185 0)
+			(at 391.16 340.995 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17656,7 +17656,7 @@
 			)
 		)
 		(property "Sim.Type" "VDMOS"
-			(at 386.08 339.09 0)
+			(at 391.16 342.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17665,7 +17665,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=D 2=G 3=S"
-			(at 386.08 335.28 0)
+			(at 391.16 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17685,7 +17685,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "Q1")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -17700,7 +17700,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7fc362be-96c5-480d-b48e-057af99d9cc8")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR03"
 			(at 275.59 111.76 0)
 			(effects
 				(font
@@ -17750,7 +17750,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR042")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -17765,7 +17765,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "821c6153-c70c-4c31-b7f5-017aa39cd923")
-		(property "Reference" "SW1"
+		(property "Reference" "SW4"
 			(at 213.36 258.826 0)
 			(effects
 				(font
@@ -17823,7 +17823,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "SW1")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -18018,7 +18018,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "852ff179-a8b5-4a6a-9e73-2d5e24b83018")
-		(property "Reference" "J2"
+		(property "Reference" "J8"
 			(at 269.24 259.08 0)
 			(effects
 				(font
@@ -18083,7 +18083,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "J2")
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -18099,7 +18099,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88b9b2dc-edc1-4d7e-9a77-cea3258052cb")
-		(property "Reference" "C2"
+		(property "Reference" "C1"
 			(at 279.4 100.3299 0)
 			(effects
 				(font
@@ -18153,7 +18153,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C2")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -18161,15 +18161,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 425.45 245.11 0)
+		(at 426.72 245.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "890a15f3-bbaf-404c-80c1-83a8d07f1063")
-		(property "Reference" "#PWR077"
-			(at 425.45 251.46 0)
+		(property "Reference" "#PWR035"
+			(at 426.72 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18178,7 +18178,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 425.45 250.19 0)
+			(at 426.72 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18186,7 +18186,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 425.45 245.11 0)
+			(at 426.72 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18195,7 +18195,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 425.45 245.11 0)
+			(at 426.72 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18204,7 +18204,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 425.45 245.11 0)
+			(at 426.72 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18218,7 +18218,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR077")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -18233,7 +18233,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "892acbb0-d5a7-4241-9035-df58e823022f")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR031"
 			(at 379.73 231.14 0)
 			(effects
 				(font
@@ -18283,7 +18283,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR051")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -18298,7 +18298,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "89d20e8f-0a27-4d04-a010-29b391ba2ea3")
-		(property "Reference" "R18"
+		(property "Reference" "R4"
 			(at 297.2816 143.002 0)
 			(effects
 				(font
@@ -18352,7 +18352,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R18")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -18369,7 +18369,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a14db84-4ec6-41e6-8d3a-189aaaba1d8a")
-		(property "Reference" "Q3"
+		(property "Reference" "Q2"
 			(at 320.04 163.8301 0)
 			(effects
 				(font
@@ -18429,7 +18429,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "Q3")
+					(reference "Q2")
 					(unit 1)
 				)
 			)
@@ -18437,15 +18437,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 379.73 326.39 0)
+		(at 384.81 330.2 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "8a354568-3a27-4413-a78c-f79005018225")
-		(property "Reference" "R23"
-			(at 377.952 327.5584 0)
+		(property "Reference" "R24"
+			(at 383.032 331.3684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18454,7 +18454,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 377.952 325.247 0)
+			(at 383.032 329.057 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18463,7 +18463,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 377.952 326.39 90)
+			(at 383.032 330.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18472,7 +18472,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 379.73 326.39 0)
+			(at 384.81 330.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18481,7 +18481,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 379.73 326.39 0)
+			(at 384.81 330.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18498,7 +18498,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R23")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -18513,7 +18513,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8a53dcf7-c3c4-444d-baa0-92b8ff797505")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR054"
 			(at 204.47 318.77 0)
 			(effects
 				(font
@@ -18563,7 +18563,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR013")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -18636,15 +18636,15 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 426.72 259.08 0)
+		(at 421.64 259.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "8e0f8e3a-63c8-48d2-bc85-920972330c4d")
-		(property "Reference" "#PWR035"
-			(at 426.72 262.89 0)
+		(property "Reference" "#PWR038"
+			(at 421.64 262.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18653,7 +18653,7 @@
 			)
 		)
 		(property "Value" "3V3"
-			(at 427.101 254.6858 0)
+			(at 422.021 254.6858 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18661,7 +18661,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 426.72 259.08 0)
+			(at 421.64 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18670,7 +18670,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 426.72 259.08 0)
+			(at 421.64 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18679,7 +18679,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 426.72 259.08 0)
+			(at 421.64 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18693,7 +18693,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR035")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -18709,7 +18709,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8fc47feb-cf27-4097-9250-4dd57e33d8c4")
-		(property "Reference" "C3"
+		(property "Reference" "C2"
 			(at 290.83 100.3299 0)
 			(effects
 				(font
@@ -18763,7 +18763,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C3")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -18778,7 +18778,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "926d35ed-1422-4fea-8496-d1f67252f3d8")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR014"
 			(at 196.85 163.83 0)
 			(effects
 				(font
@@ -18828,7 +18828,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR055")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -18843,7 +18843,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "97aa0e2b-c8ea-4bcb-a327-be4d73f70f3b")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR016"
 			(at 373.38 165.1 0)
 			(effects
 				(font
@@ -18893,7 +18893,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR047")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -18901,15 +18901,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 425.45 241.3 0)
+		(at 426.72 241.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "97d4fa4b-a8c7-44c5-be67-c379c31a9419")
-		(property "Reference" "C19"
-			(at 428.371 240.1316 0)
+		(property "Reference" "C16"
+			(at 429.641 240.1316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18918,7 +18918,7 @@
 			)
 		)
 		(property "Value" "10μF"
-			(at 428.371 242.443 0)
+			(at 429.641 242.443 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18927,7 +18927,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 426.4152 245.11 0)
+			(at 427.6852 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18936,7 +18936,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 425.45 241.3 0)
+			(at 426.72 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18945,7 +18945,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 425.45 241.3 0)
+			(at 426.72 241.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18962,7 +18962,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C19")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -18977,7 +18977,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9b397773-67e5-40e6-9d13-d33233116685")
-		(property "Reference" "R13"
+		(property "Reference" "R1"
 			(at 218.948 97.8916 0)
 			(effects
 				(font
@@ -19031,7 +19031,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R13")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -19047,7 +19047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b836208-d889-4ecb-9de7-9b9396c9d584")
-		(property "Reference" "SW2"
+		(property "Reference" "SW1"
 			(at 402.59 119.3799 90)
 			(effects
 				(font
@@ -19105,7 +19105,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "SW2")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -19121,7 +19121,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9c823be9-ef6b-4c5d-b7d3-46b714ea34a5")
-		(property "Reference" "J9"
+		(property "Reference" "J7"
 			(at 120.65 242.5699 0)
 			(effects
 				(font
@@ -19262,7 +19262,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "J9")
+					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -19277,7 +19277,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ea20ec3-01f7-41fc-9637-bf37e2218fbc")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR049"
 			(at 335.28 308.61 0)
 			(effects
 				(font
@@ -19327,7 +19327,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR058")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -19342,7 +19342,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a17fe0b2-54a4-4bdd-b82e-ece2bd0a8c97")
-		(property "Reference" "R4"
+		(property "Reference" "R19"
 			(at 310.388 315.0616 0)
 			(effects
 				(font
@@ -19396,7 +19396,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R4")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -19411,7 +19411,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a5063c21-509b-4104-bf70-7549aff8746a")
-		(property "Reference" "D4"
+		(property "Reference" "D7"
 			(at 198.628 152.4 90)
 			(effects
 				(font
@@ -19466,7 +19466,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "D4")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -19481,7 +19481,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a60bd152-3068-4daf-80ad-bc93a8e1a7d9")
-		(property "Reference" "R32"
+		(property "Reference" "R12"
 			(at 248.412 220.8784 0)
 			(effects
 				(font
@@ -19535,7 +19535,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R32")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -19550,7 +19550,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a92fa8a6-6821-4a98-9a14-9082e356ff41")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR036"
 			(at 220.98 251.46 0)
 			(effects
 				(font
@@ -19600,7 +19600,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR070")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -19615,7 +19615,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aa46a70c-861e-46d7-ac57-0ad8f7c95456")
-		(property "Reference" "R1"
+		(property "Reference" "R14"
 			(at 224.282 253.8984 0)
 			(effects
 				(font
@@ -19669,7 +19669,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R1")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -19684,7 +19684,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "aa9d6bef-2af7-4b66-95bb-e6e9d75b8e05")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR030"
 			(at 373.38 231.14 0)
 			(effects
 				(font
@@ -19734,7 +19734,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR052")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -19749,7 +19749,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ab270349-14ce-49bf-b880-ecb54b99d8c2")
-		(property "Reference" "D2"
+		(property "Reference" "D5"
 			(at 179.578 152.4 90)
 			(effects
 				(font
@@ -19804,7 +19804,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "D2")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -19820,7 +19820,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b18804cb-7263-4765-8949-fbb65c40a876")
-		(property "Reference" "J8"
+		(property "Reference" "J6"
 			(at 120.65 219.7099 0)
 			(effects
 				(font
@@ -19961,7 +19961,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "J8")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -19969,7 +19969,7 @@
 	)
 	(symbol
 		(lib_id "Device:D_Schottky")
-		(at 379.73 307.34 270)
+		(at 384.81 311.15 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19978,7 +19978,7 @@
 		(fields_autoplaced yes)
 		(uuid "b3f4928f-19c5-4a3f-8ca0-6a9461f6b07e")
 		(property "Reference" "D8"
-			(at 382.27 305.7524 90)
+			(at 387.35 309.5624 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19987,7 +19987,7 @@
 			)
 		)
 		(property "Value" "SS54"
-			(at 382.27 308.2924 90)
+			(at 387.35 312.1024 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19996,7 +19996,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 379.73 307.34 0)
+			(at 384.81 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20005,7 +20005,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 379.73 307.34 0)
+			(at 384.81 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20014,7 +20014,7 @@
 			)
 		)
 		(property "Description" "Schottky diode"
-			(at 379.73 307.34 0)
+			(at 384.81 311.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20046,7 +20046,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b5bd3533-0902-4c89-994c-5a3a5dc24f1d")
-		(property "Reference" "J12"
+		(property "Reference" "J2"
 			(at 342.9 115.5701 0)
 			(effects
 				(font
@@ -20100,7 +20100,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "J12")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -20115,7 +20115,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b6f8fbc5-ea75-4cb6-9da4-03048ebc447e")
-		(property "Reference" "C8"
+		(property "Reference" "C10"
 			(at 262.9916 191.389 0)
 			(effects
 				(font
@@ -20169,7 +20169,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C8")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -20184,7 +20184,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b774c560-fed1-4a9e-a158-ea59ade0490f")
-		(property "Reference" "R6"
+		(property "Reference" "R21"
 			(at 328.168 315.0616 0)
 			(effects
 				(font
@@ -20238,7 +20238,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R6")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -20253,7 +20253,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b804f3fe-2d91-49a4-9ef3-ed06f2f7722b")
-		(property "Reference" "R3"
+		(property "Reference" "R18"
 			(at 145.542 311.0484 0)
 			(effects
 				(font
@@ -20307,7 +20307,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R3")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -20394,7 +20394,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b92b5568-0f5d-4dad-9485-671720d9920b")
-		(property "Reference" "C20"
+		(property "Reference" "C17"
 			(at 195.58 307.3399 0)
 			(effects
 				(font
@@ -20448,7 +20448,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C20")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -20463,7 +20463,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "be674052-1239-492f-8f5d-1f5461f7458c")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR09"
 			(at 116.84 163.83 0)
 			(effects
 				(font
@@ -20513,7 +20513,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR059")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -20528,7 +20528,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bfa7ebae-e265-4a28-8024-5e1b8a93ada2")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR051"
 			(at 147.32 309.88 0)
 			(effects
 				(font
@@ -20578,7 +20578,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR011")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -20586,7 +20586,7 @@
 	)
 	(symbol
 		(lib_id "TB67H450FNG:TB67H450FNG_EL")
-		(at 393.7 266.7 0)
+		(at 394.97 266.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20594,8 +20594,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1eca90d-656d-4a84-8527-2e01636a10c6")
-		(property "Reference" "U3"
-			(at 393.7 248.92 0)
+		(property "Reference" "U6"
+			(at 394.97 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20603,7 +20603,7 @@
 			)
 		)
 		(property "Value" "TB67H450FNG_EL"
-			(at 393.7 251.46 0)
+			(at 394.97 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20611,7 +20611,7 @@
 			)
 		)
 		(property "Footprint" "Package_SO:HSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.3x2.3mm"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20621,7 +20621,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20630,7 +20630,7 @@
 			)
 		)
 		(property "Description" "- Motor Driver - - 8-HSOP"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20640,7 +20640,7 @@
 			)
 		)
 		(property "MF" "Toshiba Semiconductor and Storage"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20650,7 +20650,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "1.75 mm"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20660,7 +20660,7 @@
 			)
 		)
 		(property "Package" "SOIC-8 Toshiba Semiconductor and Storage"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20670,7 +20670,7 @@
 			)
 		)
 		(property "Price" "None"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20680,7 +20680,7 @@
 			)
 		)
 		(property "Check_prices" "https://www.snapeda.com/parts/TB67H450FNG,EL/Toshiba+Semiconductor+and+Storage/view-part/?ref=eda"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20690,7 +20690,7 @@
 			)
 		)
 		(property "STANDARD" "IPC-7351B"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20700,7 +20700,7 @@
 			)
 		)
 		(property "PARTREV" "3.0"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20710,7 +20710,7 @@
 			)
 		)
 		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TB67H450FNG,EL/Toshiba+Semiconductor+and+Storage/view-part/?ref=snap"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20720,7 +20720,7 @@
 			)
 		)
 		(property "MP" "TB67H450FNG,EL"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20730,7 +20730,7 @@
 			)
 		)
 		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4000305&manufacturer=Toshiba Semiconductor and Storage&part_name=TB67H450FNG,EL&search_term=tb67h450fng"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20740,7 +20740,7 @@
 			)
 		)
 		(property "MANUFACTURER" "Toshiba Semiconductor and Storage"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20750,7 +20750,7 @@
 			)
 		)
 		(property "Availability" "In Stock"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20760,7 +20760,7 @@
 			)
 		)
 		(property "SNAPEDA_PN" "TB67H450FNG,EL"
-			(at 393.7 266.7 0)
+			(at 394.97 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20799,7 +20799,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "U3")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -20814,7 +20814,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c3188c13-2fcc-498c-a779-3f1ae0e91ac0")
-		(property "Reference" "R19"
+		(property "Reference" "R8"
 			(at 297.2816 160.782 0)
 			(effects
 				(font
@@ -20868,7 +20868,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R19")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -20883,7 +20883,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c3768c1a-d4a8-4566-b122-3f3da47eba16")
-		(property "Reference" "C12"
+		(property "Reference" "C14"
 			(at 268.859 229.7684 0)
 			(effects
 				(font
@@ -20937,7 +20937,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C12")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -20945,7 +20945,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 422.91 264.16 0)
+		(at 424.18 264.16 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20953,8 +20953,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4d7375f-0294-418d-a10d-4491bc751fb5")
-		(property "Reference" "J6"
-			(at 425.45 264.1599 0)
+		(property "Reference" "J9"
+			(at 426.72 264.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20963,7 +20963,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 425.45 266.6999 0)
+			(at 426.72 266.6999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20972,7 +20972,7 @@
 			)
 		)
 		(property "Footprint" "0_UGOKU-One_Lib:PTS_1.5_2"
-			(at 422.91 264.16 0)
+			(at 424.18 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20981,7 +20981,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 422.91 264.16 0)
+			(at 424.18 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20990,7 +20990,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 422.91 264.16 0)
+			(at 424.18 264.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21007,7 +21007,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "J6")
+					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -21022,7 +21022,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4de6307-76ba-4fc5-91f0-cee09f26b945")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR012"
 			(at 177.8 163.83 0)
 			(effects
 				(font
@@ -21072,7 +21072,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR053")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -21087,7 +21087,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c63d34c6-beb0-4773-bf53-fcd5b5f533e4")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR056"
 			(at 144.78 327.66 0)
 			(effects
 				(font
@@ -21137,7 +21137,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR067")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -21145,15 +21145,15 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 374.65 320.04 270)
+		(at 379.73 323.85 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c7c784c5-ce3e-4544-b007-2e94ad9885fd")
-		(property "Reference" "R24"
-			(at 373.4816 318.262 0)
+		(property "Reference" "R23"
+			(at 378.5616 322.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21162,7 +21162,7 @@
 			)
 		)
 		(property "Value" "470"
-			(at 375.793 318.262 0)
+			(at 380.873 322.072 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21171,7 +21171,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 374.65 318.262 90)
+			(at 379.73 322.072 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21180,7 +21180,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 374.65 320.04 0)
+			(at 379.73 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21189,7 +21189,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 374.65 320.04 0)
+			(at 379.73 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21206,7 +21206,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R24")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -21223,7 +21223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c875d3b3-3ac1-4b68-9a86-cc4eaf36f1fb")
-		(property "Reference" "J1"
+		(property "Reference" "J10"
 			(at 134.62 257.81 0)
 			(effects
 				(font
@@ -21281,7 +21281,7 @@
 		(instances
 			(project ""
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "J1")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -21297,7 +21297,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9393120-ceba-4075-be42-75285701a3f8")
-		(property "Reference" "J10"
+		(property "Reference" "J5"
 			(at 426.72 209.5499 0)
 			(effects
 				(font
@@ -21351,7 +21351,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "J10")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -21366,7 +21366,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ca847190-4841-4935-8234-70c2f30c6f0f")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR020"
 			(at 267.97 168.91 0)
 			(effects
 				(font
@@ -21416,7 +21416,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR041")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -21431,7 +21431,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cd9a04e1-82bb-499d-bb54-7a47c5cf0006")
-		(property "Reference" "C16"
+		(property "Reference" "C9"
 			(at 430.911 186.7916 0)
 			(effects
 				(font
@@ -21485,7 +21485,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C16")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -21493,15 +21493,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 379.73 330.2 0)
+		(at 384.81 334.01 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ce07c8d7-96ea-47b7-a2e4-a42fa20d0917")
-		(property "Reference" "#PWR074"
-			(at 379.73 336.55 0)
+		(property "Reference" "#PWR057"
+			(at 384.81 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21510,7 +21510,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 379.73 335.28 0)
+			(at 384.81 339.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21518,7 +21518,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 379.73 330.2 0)
+			(at 384.81 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21527,7 +21527,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 379.73 330.2 0)
+			(at 384.81 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21536,7 +21536,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 379.73 330.2 0)
+			(at 384.81 334.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21550,7 +21550,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR074")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -21558,15 +21558,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 408.94 278.13 0)
+		(at 410.21 278.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "cf3ee06f-f842-4baa-a1ae-647ed00dd3ac")
-		(property "Reference" "#PWR031"
-			(at 408.94 284.48 0)
+		(property "Reference" "#PWR042"
+			(at 410.21 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21575,7 +21575,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 408.94 282.702 0)
+			(at 410.21 282.702 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21583,7 +21583,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 408.94 278.13 0)
+			(at 410.21 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21592,7 +21592,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 408.94 278.13 0)
+			(at 410.21 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21601,7 +21601,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 408.94 278.13 0)
+			(at 410.21 278.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21615,7 +21615,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR031")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -21630,7 +21630,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d11523af-b94f-4b93-b023-bee25ab1d1df")
-		(property "Reference" "C7"
+		(property "Reference" "C11"
 			(at 227.4316 192.659 0)
 			(effects
 				(font
@@ -21684,7 +21684,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C7")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -21699,7 +21699,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d5b71c3f-3e35-41e2-9f47-8a21f39b27d8")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR045"
 			(at 204.47 299.72 0)
 			(effects
 				(font
@@ -21749,7 +21749,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR024")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -21849,15 +21849,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 449.58 149.86 0)
+		(at 448.31 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "d757a5d6-50c3-43f1-9006-655539aecc79")
-		(property "Reference" "C10"
-			(at 452.501 148.6916 0)
+		(property "Reference" "C7"
+			(at 451.231 148.6916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21866,7 +21866,7 @@
 			)
 		)
 		(property "Value" "22μF"
-			(at 452.501 151.003 0)
+			(at 451.231 151.003 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21875,7 +21875,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 450.5452 153.67 0)
+			(at 449.2752 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21884,7 +21884,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 449.58 149.86 0)
+			(at 448.31 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21893,7 +21893,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 449.58 149.86 0)
+			(at 448.31 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21916,7 +21916,7 @@
 			)
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C10")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -21931,7 +21931,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d84584ef-e309-47d1-af4a-22955b1b0834")
-		(property "Reference" "R22"
+		(property "Reference" "R13"
 			(at 219.202 253.8984 0)
 			(effects
 				(font
@@ -21985,7 +21985,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R22")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -21993,15 +21993,15 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 414.02 245.11 0)
+		(at 415.29 245.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "d856d367-302c-4013-aedf-81ef6b527852")
-		(property "Reference" "#PWR076"
-			(at 414.02 251.46 0)
+		(property "Reference" "#PWR034"
+			(at 415.29 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22010,7 +22010,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 414.02 250.19 0)
+			(at 415.29 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22018,7 +22018,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 414.02 245.11 0)
+			(at 415.29 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22027,7 +22027,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 414.02 245.11 0)
+			(at 415.29 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22036,7 +22036,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 414.02 245.11 0)
+			(at 415.29 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22050,7 +22050,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR076")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -22065,7 +22065,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ded9018f-f7c1-42a4-8c13-fa742d1c8c37")
-		(property "Reference" "R25"
+		(property "Reference" "R5"
 			(at 147.828 152.5016 0)
 			(effects
 				(font
@@ -22119,7 +22119,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R25")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -22134,7 +22134,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e1a560f8-a9fc-4af9-a82e-2f69fce6f2bf")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR039"
 			(at 205.74 276.86 0)
 			(effects
 				(font
@@ -22185,7 +22185,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR030")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -22200,7 +22200,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e4b76cd5-71ca-447f-a31c-a7689fd0d7b9")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR021"
 			(at 325.12 195.58 0)
 			(effects
 				(font
@@ -22256,7 +22256,7 @@
 			)
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR026")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -22271,7 +22271,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e5c25032-1dd1-4316-b639-0ea7fbcf5df0")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR04"
 			(at 287.02 111.76 0)
 			(effects
 				(font
@@ -22321,7 +22321,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR043")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -22329,15 +22329,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 382.27 149.86 0)
+		(at 383.54 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f3a5aea1-5ebc-4432-af4e-c6c2cab92adc")
-		(property "Reference" "C11"
-			(at 385.191 148.6916 0)
+		(property "Reference" "C4"
+			(at 386.461 148.6916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22346,7 +22346,7 @@
 			)
 		)
 		(property "Value" "22μF"
-			(at 385.191 151.003 0)
+			(at 386.461 151.003 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22355,7 +22355,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 383.2352 153.67 0)
+			(at 384.5052 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22364,7 +22364,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 382.27 149.86 0)
+			(at 383.54 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22373,7 +22373,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 382.27 149.86 0)
+			(at 383.54 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22390,7 +22390,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "C11")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -22406,7 +22406,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4c083bf-d3de-4c63-b0b4-65ef7775a97e")
-		(property "Reference" "U8"
+		(property "Reference" "U4"
 			(at 394.97 194.31 0)
 			(effects
 				(font
@@ -22611,7 +22611,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "U8")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -22696,7 +22696,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f9e30218-f780-452f-a035-37898ad817eb")
-		(property "Reference" "R30"
+		(property "Reference" "R10"
 			(at 372.364 219.4814 0)
 			(effects
 				(font
@@ -22750,7 +22750,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "R30")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -22830,7 +22830,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fca92dbe-7bb1-4b2e-b21b-671788111d9a")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR059"
 			(at 186.69 342.9 0)
 			(effects
 				(font
@@ -22880,7 +22880,7 @@
 		(instances
 			(project "UGOKU-One"
 				(path "/f89d8039-fb4d-432a-bf6a-fadbc30a6f09"
-					(reference "#PWR037")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
