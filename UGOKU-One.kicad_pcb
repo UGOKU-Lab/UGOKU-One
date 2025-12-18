@@ -20789,7 +20789,7 @@
 				)
 			)
 		)
-		(property "Value" "NMOS"
+		(property "Value" "SSM3K333R"
 			(at 5.4102 2.1336 90)
 			(layer "F.Fab")
 			(uuid "b4aec8e7-e1a8-4bcf-8654-938bc972b1c4")

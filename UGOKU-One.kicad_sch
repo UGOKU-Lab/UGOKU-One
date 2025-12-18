@@ -17611,7 +17611,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NMOS"
+		(property "Value" "SSM3K333R"
 			(at 397.51 325.1199 0)
 			(effects
 				(font
