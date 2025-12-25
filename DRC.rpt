@@ -1,69 +1,7 @@
 ** Drc report for UGOKU-One.kicad_pcb **
-** Created on 2025-12-12T17:47:02+0900 **
+** Created on 2025-12-23T11:00:26+0900 **
 
-** Found 14 DRC violations **
-[clearance]: クリアランス違反 (ネットクラス '1.5A' クリアランス 0.2000 mm; 現状 0.1950 mm)
-    ルール: ネットクラス '1.5A'; warning (excluded)
-    @(17.7500 mm, 24.3250 mm): 配線 [3V3] ( F.Cu 上、長さ: 0.5000 mm )
-    @(17.3000 mm, 24.3000 mm): パッド 5 [Net-(D6-A2)] - U1 ( F.Cu 上)
-    Pad間クリアランスのためOK
-[clearance]: クリアランス違反 (ネットクラス '1.5A' クリアランス 0.2000 mm; 現状 0.1900 mm)
-    ルール: ネットクラス '1.5A'; warning (excluded)
-    @(17.3000 mm, 24.3000 mm): パッド 5 [Net-(D6-A2)] - U1 ( F.Cu 上)
-    @(17.8000 mm, 24.3000 mm): パッド 6 [3V3] - U1 ( F.Cu 上)
-    ICのランド同士のためOK
-[hole_clearance]: 穴のクリアランス違反 (基板の設定の穴の制約 クリアランス 0.2000 mm; 現状 0.1944 mm)
-    ルール: 基板の設定の穴の制約; error (excluded)
-    @(14.1100 mm, 28.7200 mm): J3のNPTHパッド
-    @(13.8000 mm, 27.6450 mm): パッド A1 [GND] - J3 ( F.Cu 上)
-    NPTHのためOK
-[hole_clearance]: 穴のクリアランス違反 (基板の設定の穴の制約 クリアランス 0.2000 mm; 現状 0.1944 mm)
-    ルール: 基板の設定の穴の制約; error (excluded)
-    @(14.1100 mm, 28.7200 mm): J3のNPTHパッド
-    @(13.8000 mm, 27.6450 mm): パッド B12 [GND] - J3 ( F.Cu 上)
-    NPTHのためOK
-[hole_clearance]: 穴のクリアランス違反 (基板の設定の穴の制約 クリアランス 0.2000 mm; 現状 0.1944 mm)
-    ルール: 基板の設定の穴の制約; error (excluded)
-    @(19.8900 mm, 28.7200 mm): J3のNPTHパッド
-    @(20.2000 mm, 27.6450 mm): パッド A12 [GND] - J3 ( F.Cu 上)
-    NPTHのためOK
-[hole_clearance]: 穴のクリアランス違反 (基板の設定の穴の制約 クリアランス 0.2000 mm; 現状 0.1944 mm)
-    ルール: 基板の設定の穴の制約; error (excluded)
-    @(19.8900 mm, 28.7200 mm): J3のNPTHパッド
-    @(20.2000 mm, 27.6450 mm): パッド B1 [GND] - J3 ( F.Cu 上)
-    NPTHのためOK
-[courtyards_overlap]: コートヤードのオーバーラップ
-    ルール: 基板の設定のコートヤードの制約; warning (excluded)
-    @(16.8000 mm, 21.9000 mm): フットプリント U1
-    @(21.4000 mm, 25.6000 mm): フットプリント C1
-    実装問題なきためOK
-[courtyards_overlap]: コートヤードのオーバーラップ
-    ルール: 基板の設定のコートヤードの制約; warning (excluded)
-    @(-8.0000 mm, 1.4600 mm): フットプリント J11
-    @(-19.0000 mm, 1.4600 mm): フットプリント J8
-    実装問題なきためOK
-[courtyards_overlap]: コートヤードのオーバーラップ
-    ルール: 基板の設定のコートヤードの制約; warning (excluded)
-    @(21.4000 mm, 25.6000 mm): フットプリント C1
-    @(17.0000 mm, 31.3250 mm): フットプリント J3
-    実装問題なきためOK
-[lib_footprint_mismatch]: フットプリント 'ESP32-WROOM-32E' が、ライブラリ 'RF_Module' のコピーと一致しません。
-    ローカル オーバーライド; warning (excluded)
-    @(15.0000 mm, -22.0200 mm): フットプリント U5
-    via径、シルク変更のためOK
-[lib_footprint_mismatch]: フットプリント 'BAT_2481' が、ライブラリ '0_UGOKU-One_Lib' のコピーと一致しません。
-    ローカル オーバーライド; warning (excluded)
-    @(-1.5000 mm, 0.0000 mm): フットプリント BT1
-    シルク変更のためOK
-[silk_over_copper]: ハンダマスクでシルクスクリーンが切り取られている
-    ローカル オーバーライド; warning (excluded)
-    @(6.3000 mm, 7.6500 mm): 矩形 (F.Silkscreen 上)
-[silk_over_copper]: ハンダマスクでシルクスクリーンが切り取られている
-    ローカル オーバーライド; warning (excluded)
-    @(2.0000 mm, 7.6500 mm): 矩形 (F.Silkscreen 上)
-[silk_over_copper]: ハンダマスクでシルクスクリーンが切り取られている
-    ローカル オーバーライド; warning (excluded)
-    @(15.3000 mm, 25.4000 mm): 円 of U1 、F.Silkscreen 上
+** Found 0 DRC violations **
 
 ** Found 0 unconnected pads **
 
@@ -73,10 +11,10 @@
     @(3.6000 mm, 27.5000 mm): フットプリント J2
 [footprint_filters_mismatch]: 0_UGOKU-One_Lib:PTS_1.5_2 はシンボルのフットプリント フィルター ( Connector*:*_1x??_* ) と一致しません。
     ローカル オーバーライド; warning
-    @(-20.0000 mm, 27.5000 mm): フットプリント J5
+    @(-20.0000 mm, 27.5000 mm): フットプリント J10
 [footprint_filters_mismatch]: 0_UGOKU-One_Lib:PTS_1.5_2 はシンボルのフットプリント フィルター ( Connector*:*_1x??_* ) と一致しません。
     ローカル オーバーライド; warning
-    @(-9.5000 mm, 27.5000 mm): フットプリント J9
+    @(-9.5000 mm, 27.5000 mm): フットプリント J11
 [footprint_filters_mismatch]: 0_UGOKU-One_Lib:PTS_1.5_2 はシンボルのフットプリント フィルター ( Connector*:*_1x??_* ) と一致しません。
     ローカル オーバーライド; warning
     @(27.5000 mm, 8.0000 mm): フットプリント J12
