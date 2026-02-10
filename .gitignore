@@ -1,0 +1,26 @@
+# .gitignore for KiCad project (UGOKU-One)
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Temporary and backup files
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# KiCad caches and backup folders
+fp-info-cache/
+UGOKU-One-backups/
+*.kicad_pcb.bak
+*.kicad_prl
+*fp-info-cache
+
+# Logs and reports
+*.log

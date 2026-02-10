@@ -1,5 +1,5 @@
 ** Drc report for UGOKU-One.kicad_pcb **
-** Created on 2025-12-23T11:00:26+0900 **
+** Created on 2026-01-05T18:21:38+0900 **
 
 ** Found 0 DRC violations **
 
@@ -17,7 +17,7 @@
     @(-9.5000 mm, 27.5000 mm): フットプリント J11
 [footprint_filters_mismatch]: 0_UGOKU-One_Lib:PTS_1.5_2 はシンボルのフットプリント フィルター ( Connector*:*_1x??_* ) と一致しません。
     ローカル オーバーライド; warning
-    @(27.5000 mm, 8.0000 mm): フットプリント J12
+    @(28.5000 mm, 8.2000 mm): フットプリント J12
 [footprint_filters_mismatch]: Button_Switch_SMD:SW_DIP_SPSTx02_Slide_Omron_A6S-210x_W8.9mm_P2.54mm はシンボルのフットプリント フィルター ( SW?DIP?x2* ) と一致しません。
     ローカル オーバーライド; warning
     @(6.5000 mm, -5.0000 mm): フットプリント SW4
