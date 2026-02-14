@@ -10,8 +10,6 @@ UGOKU One はモータやセンサを使ったロボットなどのDIY製作物�
 - 豊富な汎用IOポートでいろんな拡張が可能
 - 圧着工具を使用せずにモーターやセンサーの配線が可能
 
-現時点では開発中で動作は未保証です。
-
 ![image](https://github.com/user-attachments/assets/07bff294-f610-4f64-91a8-c7fec4301754)
 
 ![image](https://github.com/user-attachments/assets/f8cec76a-9255-4f74-b1f8-f3958f4bec29)
